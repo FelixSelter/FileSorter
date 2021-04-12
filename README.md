@@ -1,1 +1,1 @@
-th is just for automatic update checking. Please ignore
+this just for automatic update checking. Please ignore
